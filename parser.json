@@ -1,7 +1,7 @@
 {
-  "parser_version": "40e52f343f1b1f270d6ecb2ca898ca9b8cba6936",
   "url": "https://github.com/faldor20/tree-sitter-roc",
   "semver": false,
+  "parser_version": "40e52f343f1b1f270d6ecb2ca898ca9b8cba6936",
   "lang": "roc",
   "location": null
 }
